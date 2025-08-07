@@ -1318,8 +1318,6 @@ a {
 }
 .cid-uT3whqgHIR {
   display: flex;
-  padding-top: 20rem;
-  padding-bottom: 4rem;
   background-image: url("https://r.mobirisesite.com/1689480/assets/images/g58f94bfeec7eaa1fee8148245f02-h_mdzckwjj.jpg");
 }
 .cid-uT3whqgHIR .mbr-overlay {
@@ -1495,9 +1493,7 @@ a {
   max-width: 800px;
 }
 .cid-uT3whqj9pB {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #d4d7e2;
+  background-color: transparent;
 }
 .cid-uT3whqj9pB .mbr-fallback-image.disabled {
   display: none;
